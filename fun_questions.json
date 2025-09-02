@@ -1,0 +1,286 @@
+{
+  "teka_teki": [
+    {
+      "question": "Apa yang punya kaki tetapi tidak bisa berjalan?",
+      "answer": "meja"
+    },
+    {
+      "question": "Apa yang selalu datang tetapi tidak pernah sampai?",
+      "answer": "besok"
+    },
+    {
+      "question": "Apa yang punya kota tetapi tidak ada rumah, punya sungai tetapi tidak ada air?",
+      "answer": "peta"
+    },
+    {
+      "question": "Apa yang bisa dibawa berkeliling dunia tetapi muat di saku?",
+      "answer": "stempel"
+    },
+    {
+      "question": "Apa yang punya kepala dan ekor tetapi tidak punya tubuh?",
+      "answer": "koin"
+    },
+    {
+      "question": "Apa yang semakin banyak Anda ambil, semakin banyak Anda tinggalkan?",
+      "answer": "langkah"
+    },
+    {
+      "question": "Apa yang punya tangan tetapi tidak bisa bertepuk?",
+      "answer": "jam"
+    },
+    {
+      "question": "Apa yang punya mata tetapi tidak bisa melihat?",
+      "answer": "angin topan"
+    },
+    {
+      "question": "Apa yang punya gigi tetapi tidak bisa makan?",
+      "answer": "gergaji"
+    },
+    {
+      "question": "Apa yang basah ketika dikeringkan?",
+      "answer": "handuk"
+    },
+    {
+      "question": "Apa yang bisa menembus kaca tanpa memecahkannya?",
+      "answer": "cahaya"
+    },
+    {
+      "question": "Apa yang selalu naik tetapi tidak pernah turun?",
+      "answer": "usia"
+    },
+    {
+      "question": "Apa yang bisa dipecahkan hanya dengan mengatakan namanya?",
+      "answer": "keheningan"
+    },
+    {
+      "question": "Apa yang punya leher tetapi tidak punya kepala?",
+      "answer": "botol"
+    },
+    {
+      "question": "Apa yang punya satu mata tetapi tidak bisa melihat?",
+      "answer": "jarum"
+    },
+    {
+      "question": "Apa yang penuh dengan lubang tetapi masih menampung air?",
+      "answer": "spons"
+    },
+    {
+      "question": "Apa yang bisa berjalan tanpa kaki dan menangis tanpa mata?",
+      "answer": "awan"
+    },
+    {
+      "question": "Apa yang punya kunci tetapi tidak bisa membuka pintu?",
+      "answer": "piano"
+    },
+    {
+      "question": "Apa yang punya lidah tetapi tidak bisa bicara?",
+      "answer": "sepatu"
+    },
+    {
+      "question": "Apa yang punya daun tetapi bukan pohon?",
+      "answer": "buku"
+    },
+    {
+      "question": "Apa yang punya sungai tanpa air?",
+      "answer": "peta"
+    },
+    {
+      "question": "Apa yang bisa Anda tangkap tetapi tidak bisa Anda lempar?",
+      "answer": "pilek"
+    },
+    {
+      "question": "Apa yang menjadi lebih berat saat lebih banyak yang Anda ambil?",
+      "answer": "lubang"
+    },
+    {
+      "question": "Apa yang memiliki wajah dan dua tangan tetapi tidak memiliki lengan atau kaki?",
+      "answer": "jam"
+    },
+    {
+      "question": "Apa yang selalu di depan Anda tetapi tidak bisa dilihat?",
+      "answer": "masa depan"
+    },
+    {
+      "question": "Apa yang bisa dibuka tetapi tidak bisa ditutup?",
+      "answer": "telur"
+    },
+    {
+      "question": "Apa yang memiliki jaring tetapi bukan laba-laba?",
+      "answer": "internet"
+    },
+    {
+      "question": "Apa yang memiliki gigi tetapi tidak pernah makan?",
+      "answer": "ristle"
+    },
+    {
+      "question": "Apa yang memiliki satu kaki dan ribuan wajah?",
+      "answer": "cermin"
+    },
+    {
+      "question": "Apa yang bisa Anda pegang tanpa menyentuhnya?",
+      "answer": "napas"
+    },
+    {
+      "question": "Apa yang memiliki empat jari dan satu ibu jari tetapi bukan makhluk hidup?",
+      "answer": "sarung tangan"
+    },
+    {
+      "question": "Apa yang memiliki hutan tanpa pohon?",
+      "answer": "peta"
+    },
+    {
+      "question": "Apa yang memiliki mulut tetapi tidak pernah berbicara?",
+      "answer": "sungai"
+    },
+    {
+      "question": "Apa yang memiliki tempat tidur tetapi tidak pernah tidur?",
+      "answer": "sungai"
+    },
+    {
+      "question": "Apa yang memiliki kepala ekor tetapi tidak memiliki tubuh?",
+      "answer": "koin"
+    }
+  ],
+  "tebak_negara": [
+    {
+      "question": "Negara mana yang berbentuk seperti sepatu boot?",
+      "answer": "italia"
+    },
+    {
+      "question": "Negara mana yang memiliki menara Eiffel?",
+      "answer": "perancis"
+    },
+    {
+      "question": "Negara mana yang terbesar di dunia berdasarkan luas wilayah?",
+      "answer": "rusia"
+    },
+    {
+      "question": "Negara mana yang disebut sebagai Negeri Matahari Terbit?",
+      "answer": "jepang"
+    },
+    {
+      "question": "Negara mana yang memiliki piramida Giza?",
+      "answer": "mesir"
+    },
+    {
+      "question": "Negara mana yang memiliki Menara Pisa?",
+      "answer": "italia"
+    },
+    {
+      "question": "Negara mana yang memiliki Tembok Besar?",
+      "answer": "cina"
+    },
+    {
+      "question": "Negara mana yang disebut sebagai Negeri Kanguru?",
+      "answer": "australia"
+    },
+    {
+      "question": "Negara mana yang memiliki bendera dengan gambar maple leaf?",
+      "answer": "kanada"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Jakarta?",
+      "answer": "indonesia"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Tokyo?",
+      "answer": "jepang"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Seoul?",
+      "answer": "korea selatan"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Bangkok?",
+      "answer": "thailand"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Berlin?",
+      "answer": "jerman"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Madrid?",
+      "answer": "spanyol"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota London?",
+      "answer": "inggris"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Paris?",
+      "answer": "perancis"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Roma?",
+      "answer": "italia"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Moskwa?",
+      "answer": "rusia"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Washington D.C.?",
+      "answer": "amerika serikat"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Ottawa?",
+      "answer": "kanada"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Brasília?",
+      "answer": "brasil"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Buenos Aires?",
+      "answer": "argentina"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Kairo?",
+      "answer": "mesir"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota New Delhi?",
+      "answer": "india"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Beijing?",
+      "answer": "cina"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Ankara?",
+      "answer": "turki"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Tehran?",
+      "answer": "iran"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Riyadh?",
+      "answer": "arab saudi"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Kuala Lumpur?",
+      "answer": "malaysia"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Manila?",
+      "answer": "filipina"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Hanoi?",
+      "answer": "vietnam"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Singapura?",
+      "answer": "singapura"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Wellington?",
+      "answer": "selandia baru"
+    },
+    {
+      "question": "Negara mana yang memiliki ibu kota Pretoria?",
+      "answer": "afrika selatan"
+    }
+  ]
+}
